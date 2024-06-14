@@ -1,7 +1,3 @@
-Sure! Here is a concise description of your database design for the NFL Scouting application, suitable for including in your GitHub repository:
-
----
-
 ## NFL Scouting Database Design
 
 ### Purpose
@@ -40,7 +36,3 @@ This database structure provides a robust and secure environment for scouts and 
 
 ### Example Records
 The database includes example records to demonstrate its functionality and the relationships between entities.
-
----
-
-Feel free to adjust any sections as needed for clarity or additional details. This summary should give potential users a clear understanding of your database design and its purpose.
